@@ -7,3 +7,8 @@ html, body {
     padding: 0;
     background-repeat: no-repeat
 }
+
+p {
+    margin: 0;
+    padding: 0;
+}
